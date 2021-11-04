@@ -1,0 +1,7 @@
+# The Best Chess Game 1.0 -- Alpha Version (Chess_Alpha.tar.gz) INSTALL
+
+Please read the following to install the game:
+  - Type "tar -xvzf Chess_Alpha.tar.gz" to decompress the game package
+  - Type "cd Chess_Alpha.tar.gz" to open the package
+  - Type "cd bin" to go to the file location of the game
+  - Type "./chess" to open up the game
